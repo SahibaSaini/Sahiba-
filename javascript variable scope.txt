@@ -1,0 +1,12 @@
+javascript variable scope:
+
+**scope:it determines the visibility of variables.
+
+**3 types:
+1.Block scope:variable declared inside a {} block cannot be accessed outside the block
+* var keyword >CAN NOT have block scope >can use globally
+*with let we make global variable.
+2.Function scope:variable within js function,become local to the function.
+> we use ******LET
+3.Global scope
+

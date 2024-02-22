@@ -1,0 +1,18 @@
+javascript objects
+
+js is an entity having state and behavior(properties and method)
+ex:car,pen,bike,chair etc
+*object based language.
+directly create objects
+*donot use inheritance
+
+**types:
+1.  built-in objects
+       js no. object
+       js boolean object
+       -- string--
+          date
+          math
+          array
+2.  user-defined objects
+

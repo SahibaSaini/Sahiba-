@@ -1,0 +1,23 @@
+loop: no. of repetitions
+four types:
+1.   for loop
+2.   while loop
+3.   do-while loop
+4.   for-in loop
+**for loop: used for finite or fixed interval of times
+**for(initialization,condition,updation)
+{---s1-
+---}
+
+**while(condition)
+{-----s1
+------}
+
+**do
+{----s1
+-----}
+while (condition);
+
+**for (var in object)
+{---s1
+----}
